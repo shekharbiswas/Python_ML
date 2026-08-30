@@ -1,7 +1,6 @@
 # Week 1, Day 5 — Tasks (Light Load)
 
-**Total time:** ~3–3.5 hours. It's the end of the week — this session is intentionally lighter than the rest of the week so there's room to review anything from Days 1–4 that still feels shaky.
-
+**Total time:** ~ 4.5 hours. 
 ---
 
 ## Block 1 (45 min) — Environment & Connection Setup
@@ -15,7 +14,7 @@
 
 ---
 
-## Block 2 (1 hour) — First Connection & Query
+## Block 2 (1.5 hour) — First Connection & Query
 
 Create `week-1/day-5/first_connection.py`:
 
@@ -28,7 +27,7 @@ Create `week-1/day-5/first_connection.py`:
 
 ---
 
-## Block 3 (1 hour) — Reusable Query Function + Mini Task
+## Block 3 (1.5 hour) — Reusable Query Function + Mini Task
 
 Create `week-1/day-5/query_practice.py`:
 
@@ -41,7 +40,7 @@ Create `week-1/day-5/query_practice.py`:
 
 ---
 
-## Block 4 (30–45 min) — Light Review, Your Choice
+## Block 4 (45 min) —  Review, Your Choice
 
 Pick **one** of the following, based on what felt least solid this week:
 
