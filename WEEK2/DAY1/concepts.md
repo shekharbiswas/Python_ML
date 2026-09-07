@@ -1,7 +1,7 @@
 # Week 2, Day 1 — Concepts
 ## pandas Fundamentals: DataFrames, Indexing, Filtering, Sorting
 
----
+
 
 [![Watch the video](https://img.youtube.com/vi/858zyLzpsnE/0.jpg)](https://www.youtube.com/watch?v=858zyLzpsnE)
 
