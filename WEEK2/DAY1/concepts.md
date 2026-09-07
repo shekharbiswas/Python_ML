@@ -3,6 +3,10 @@
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/858zyLzpsnE/0.jpg)](https://www.youtube.com/watch?v=858zyLzpsnE)
+
+
+
 ## Question of the Day
 **"How do I load a raw Snowflake table into pandas and actually work with it efficiently?"**
 
