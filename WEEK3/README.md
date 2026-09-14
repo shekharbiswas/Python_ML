@@ -12,7 +12,11 @@ This week moves at a working-engineer pace: correct use of `train_test_split`, m
 ---
 
 ## Dataset Used
-Small, well-known datasets loaded directly through scikit-learn (e.g., `load_diabetes`, `fetch_california_housing`, `load_breast_cancer`) or lightweight synthetic data generated with `make_regression` / `make_classification`. No external data sources — the focus stays entirely on the modeling workflow itself, with datasets small enough to iterate on quickly and clean enough that modeling issues (not data issues) are what surface.
+Two small, clean Kaggle datasets, used side by side all week so the regression/classification distinction is seen in real data rather than described abstractly:
+- **Regression:** [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance) (`insurance.csv`) — predicting medical charges.
+- **Classification:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data) (`train.csv`) — predicting survival.
+
+Both are small enough to load and inspect in full within minutes, keeping the week's effort on the modeling workflow itself rather than on data wrangling.
 
 ---
 
@@ -24,7 +28,7 @@ Small, well-known datasets loaded directly through scikit-learn (e.g., `load_dia
 | 2 | Linear regression, train/test split | "How do I fit a regression model properly, and why can't I trust a score computed on the data it trained on?" |
 | 3 | Logistic regression, classification basics | "How does a classifier actually make a decision, and how is that different from predicting a number?" |
 | 4 | Evaluation metrics — accuracy, precision/recall, RMSE, R² | "How do I know if a model is actually good, and which metric tells the truth for this problem?" |
-| 5 | scikit-learn workflow end-to-end (capstone) | "Can I take a new dataset and, unaided, run the full fit/predict/score loop and explain the result?" |
+| 5 | Wrap-up & presentation of learning outcomes (lightweight) | "Can I clearly explain both models built this week, their results, and the single most important habit I'm taking forward?" |
 
 ---
 
@@ -34,7 +38,7 @@ Small, well-known datasets loaded directly through scikit-learn (e.g., `load_dia
 3. Correct vs. incorrect evaluation practice gets flagged explicitly (train/test leakage, wrong metric for the problem) — the goal is a trustworthy model, not just a model that runs
 4. One core new capability per day, but moving through it fast; remaining time goes to interpretation — reading what a coefficient, confusion matrix, or R² actually means — rather than more code for its own sake
 5. Regression and classification are treated as genuinely different problems throughout, not variations of the same recipe
-6. The week ends with a real end-to-end modeling exercise, not just isolated technique practice
+6. The week ends with a short, lightweight wrap-up — consolidating and presenting the week's two models rather than a heavy new build
 
 ---
 
