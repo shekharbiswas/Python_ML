@@ -1,7 +1,7 @@
 # Week 3, Day 5 — Tasks
 ## Wrap-Up & Presentation of Learning Outcomes (Lightweight — ~2 Hours)
 
-Read today's Concepts doc first. Today is deliberately short — no new coding, no new dataset. The goal is to consolidate Monday–Thursday into a short presentation of what was learned, using work you've already produced this week.
+Read today's Concepts doc first. Today is short — the goal is to consolidate Monday–Thursday into a short presentation of what was learned, using work you've already produced this week.
 
 ---
 
