@@ -38,7 +38,7 @@ If any of the SQL/dbt/Snowflake items feel shaky, a quick refresh before Week 1 
 
 ### Week 3 — Machine Learning Fundamentals
 **Topics:** Supervised learning overview, linear and logistic regression, classification vs. regression, train/test split, core evaluation metrics (accuracy, precision/recall, RMSE, R²), intro to `scikit-learn`'s API and workflow (`fit`/`predict`/`score`).
-**Snowflake/dbt tie-in:** Training datasets are queried from the dbt marts layer via Snowflake — not static CSVs — so feature selection starts from what's already modeled in dbt.
+
 **By end of week:** Can train, evaluate, and interpret a basic regression and classification model end-to-end.
 
 ### Week 4 — Model Tuning + Project 1
