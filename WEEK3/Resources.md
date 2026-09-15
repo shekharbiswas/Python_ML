@@ -13,4 +13,4 @@
 
 ## Slides
 
-[link](https://docs.google.com/presentation/d/e/2PACX-1vSs3RYPKqVpYqFbP5Ct-3stOM0YeMyDWET6Q1ZZEg6_-GcPCi_3sFcGO63QGGtR9CButaRPMJMO2A-I/pub?start=false&loop=false&delayms=3000)
+1. [link](https://docs.google.com/presentation/d/e/2PACX-1vSs3RYPKqVpYqFbP5Ct-3stOM0YeMyDWET6Q1ZZEg6_-GcPCi_3sFcGO63QGGtR9CButaRPMJMO2A-I/pub?start=false&loop=false&delayms=3000)
