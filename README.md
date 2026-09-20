@@ -43,9 +43,10 @@ If any of the SQL/dbt/Snowflake items feel shaky, a quick refresh before Week 1 
 
 ### Week 4 — Model Tuning + Project 1
 **Topics:** Cross-validation, hyperparameter tuning (grid search / random search), feature engineering and selection, handling categorical variables and scaling, overfitting/underfitting and how to diagnose it.
-**Snowflake/dbt tie-in:** A direct, hands-on comparison — doing a feature engineering task in dbt (SQL) versus doing the same task in Python (pandas/sklearn) — to build real intuition for where each belongs in a pipeline.
 
-**📌 Project 1 (Week 4):** A focused mini-project on a single dataset — features prepared via dbt, a model trained and evaluated in Python, and a short written summary of the results, the modeling choices made, and why.
+**Pandas/sklearn tie-in:** A direct, hands-on comparison: doing a feature engineering task as ad-hoc pandas code versus rebuilding the same task as a scikit-learn Pipeline with ColumnTransformer, to build real intuition for why preprocessing belongs inside the modeling pipeline (reproducibility, avoiding data leakage, plugging into cross-validation and hyperparameter search).
+
+**📌 Project 1 (Week 4):** A focused mini-project on a single dataset — features prepared, a model trained and evaluated in Python, and a short written summary of the results, the modeling choices made, and why.
 
 ### Week 5 — End-to-End ML Pipelines
 **Topics:** Structuring a repeatable ML workflow, separating data prep / training / evaluation into clean stages, writing results back to a database, basic pipeline reliability (logging, error handling), intro to model persistence (saving/loading a trained model).
