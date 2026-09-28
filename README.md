@@ -48,15 +48,15 @@ If any of the SQL/dbt/Snowflake items feel shaky, a quick refresh before Week 1 
 
 **📌 Project 1 (Week 4):** A focused mini-project on a single dataset — features prepared, a model trained and evaluated in Python, and a short written summary of the results, the modeling choices made, and why.
 
-### Week 5 — End-to-End ML Pipelines
-**Topics:** Structuring a repeatable ML workflow, separating data prep / training / evaluation into clean stages, writing results back to a database, basic pipeline reliability (logging, error handling), intro to model persistence (saving/loading a trained model).
-**Snowflake/dbt tie-in:** The full loop is built and run: dbt transforms raw Snowflake data → Python reads the resulting feature table → trains and evaluates a model → predictions/results are written back into Snowflake.
-**By end of week:** Can describe and build, from memory, a working dbt-to-Python-to-Snowflake pipeline.
+### Week 5 - End-to-End ML Pipelines
+**Topics:** Structuring a repeatable ML workflow, separating data prep / training / evaluation into clean stages, saving results to files (CSV/Parquet) or a local SQLite database, basic pipeline reliability (logging, error handling), and model persistence (saving/loading a trained model).
+**Tooling tie-in:** The full loop is built and run in Python: load raw data → clean and engineer features → train and evaluate a model → save the model and write predictions/metrics to an output file or SQLite table. Scikit-learn Pipelines and `joblib` tie the stages together.
+**By end of week:** Can describe and build, from memory, a working load → prepare → train → evaluate → save pipeline that runs end to end with a single script or command.
 
-### Week 6 — Capstone Project
-**Focus:** Independent project work, applying everything from Weeks 1–5 to a self-chosen (or assigned) real dataset, with instructor/mentor check-ins rather than new topics.
+### Week 6 - Capstone Project
+**Focus:** Independent project work, applying everything from Weeks 1-5 to a self-chosen (or assigned) real dataset, with instructor/mentor check-ins rather than new topics.
 
-**🏆 Capstone (Week 6):** A complete, production-style project — raw data loaded into Snowflake, transformed with dbt, modeled in Python, results delivered back out — documented as a full repo: raw/source data references, dbt models, Python code, results, and a README explaining the approach and findings.
+**🏆 Capstone (Week 6):** A complete, portfolio-ready project: raw data explored and cleaned, features engineered, models trained, tuned and compared, and results delivered as saved outputs. It is documented as a full repo containing the data source reference, notebooks or scripts, the reusable pipeline code, saved model and results, and a README explaining the approach, findings, and how to run it.
 
 ---
 
