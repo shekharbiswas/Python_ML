@@ -67,4 +67,4 @@ Use the 6-7 slide structure from the Concepts file. Pull content from your proje
 4. Which parts of this pipeline will you reuse for your own project next week?
 
 ---
-*Next: Week 6, Capstone (student-chosen project)*
+*Next: Week 6, (continue the project)*
