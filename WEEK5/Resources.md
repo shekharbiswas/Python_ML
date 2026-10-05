@@ -9,3 +9,8 @@
 ## Tech
 
 1. [VIF](https://en.wikipedia.org/wiki/Variance_inflation_factor) - VIF > 5 means high multi-collinearity 
+
+
+## Docs
+
+[link](https://docs.google.com/document/d/1bGNovx8OV2LOGB_MKDw_UvCs4lQR7yOu-la3UtRVO0Q/edit?tab=t.0)
